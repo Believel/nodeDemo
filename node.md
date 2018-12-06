@@ -28,3 +28,9 @@
 > 作用域分局部作用域和全局作用域
 11. 什么是上下文？
 > this指向它的调用者，使用call,apply可以改变上下文
+
+## Promise
+1. promise的三种状态
+    * 未完成(pending)
+    * 已完成(fulfilled)
+    * 失败(rejected)
